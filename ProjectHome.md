@@ -1,0 +1,1 @@
+A Bajnokok Ligája projekt célja az Európa leghíresebb focibajnokságához, az  UEFA (Union of European Football Associations) Champions League-hez kapcsolódó adatok, információk tárolása és kezelése.
